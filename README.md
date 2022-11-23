@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Mathieu</h1>
-<h3 align="center">A passionate developer from France</h3>
+<h1 align="center">Salut 👋, Je suis Mathieu</h1>
+<h3 align="center">Un développeur passionné de France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathieudurand28&label=Profile%20views&color=0e75b6&style=flat" alt="mathieudurand28" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mathieudurand28" alt="mathieudurand28" /></a> </p>
 
-- 🔭 I’m currently working on [HeyChat](https://github.com/MathieuDurand28/HeyChat.git)
+- 🔭 Je travaille actuellement sur [HeyChat](https://github.com/MathieuDurand28/HeyChat.git)
 
-- 🌱 I’m currently learning **React, Node**
+- 🌱 Je suis en train d'apprendre **React, Node**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
