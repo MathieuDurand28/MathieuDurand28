@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, Je suis Mathieu</h1>
-<h3 align="center">Un développeur passionné de France</h3>
+<h3 align="center">Un développeur passionné de Chartres (France)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathieudurand28&label=Profile%20views&color=0e75b6&style=flat" alt="mathieudurand28" /> </p>
 
@@ -7,7 +7,10 @@
 
 - 🔭 Je travaille actuellement sur [HeyChat](https://github.com/MathieuDurand28/HeyChat.git)
 
-- 🌱 Je suis en train d'apprendre **React, Node**
+- 🌱 Je suis en train d'apprendre **[React, Node] principalement et je me documente sur [React Nativ et Swift / SwiftUI]**
+
+- 👀 Je m'intéresse au développement web avec une attirance pour le développement mobile.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
