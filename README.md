@@ -7,7 +7,7 @@
 
 - 🔭 Je travaille actuellement sur [HeyChat](https://github.com/MathieuDurand28/HeyChat.git)
 
-- 🌱 Je suis en train d'apprendre **[React, Node] principalement et je me documente sur [React Nativ et Swift / SwiftUI]**
+- 🌱 Je suis en train d'apprendre **[React, Node] principalement et je me documente sur [React Native et Swift / SwiftUI]**
 
 - 👀 Je m'intéresse au développement web avec une attirance pour le développement mobile.
 
