@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mathieudurand28" alt="mathieudurand28" /></a> </p>
 
-- 🔭 Je travaille actuellement sur [HeyChat](https://github.com/MathieuDurand28/HeyChat.git)
+[//]: # (- 🔭 Je travaille actuellement sur [HeyChat](https://github.com/MathieuDurand28/HeyChat.git) )
 
 - 🌱 Je suis en train d'apprendre **[React, Node] principalement et je me documente sur [React Native et Swift / SwiftUI]**
 
