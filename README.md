@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, Je suis Mathieu</h1>
-<h3 align="center">Un développeur passionné de Chartres (France)</h3>
+<h3 align="center">Un développeur passionné de Chartres</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathieudurand28&label=Profile%20views&color=0e75b6&style=flat" alt="mathieudurand28" /> </p>
 
